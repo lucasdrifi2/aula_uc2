@@ -25,3 +25,20 @@
 - ``color`` : cor ---> Trocar a cor da letra
 - ``background`` : fundo ---> Mudar o fundo
 - ``font-size`` : tamanho da fonte  ---> Mudar o tamanho da fonte
+
+
+# Aula 3
+
+## SELETORES NO CSS
+=> É a forma como você irá chamar um determinado elemento do `html` no `CSS`
+1. tag ---> Basicamente, você chama a tag em si para realizar a estilização.
+* Quando você chama diretamente a tag, cuidado para não estilizar todos os elementos que possui aquela tag.
+
+2. #id ---> Você cria um identificador único na tag do elemento [html] e chama esse identificador no css.
+
+3. .class ---> Você cria um [apelido] na tag do elemento e esse [apelido] pode ser utilizado quantas vezes necessárias inclusive em outras tags diferentes.
+
+
+
+
+
