@@ -36,8 +36,13 @@
 
 2. #id ---> Você cria um identificador único na tag do elemento [html] e chama esse identificador no css.
 
-3. .class ---> Você cria um [apelido] na tag do elemento e esse [apelido] pode ser utilizado quantas vezes necessárias inclusive em outras tags diferentes.
+3. .class ---> Você cria um ``[apelido]`` na tag do elemento e esse ``[apelido]`` pode ser utilizado quantas vezes necessárias inclusive em outras tags diferentes.
 
+## SISTEMA DE CORES 
+1. ``nome da cor ``---> Especifica o valor da cor através do nome da cor
+2. ``Hexadecimal`` ---> Especifica o nome da cor através de uma sequência alfa-numérica
+3. ``rgb`` ---> Especifica a cor através da intesidade do ref[vermelho], greedn[verde] , blue [azul].
+4. ``rgba`` ---> São os mesmos valores do rgb, porém, com o valor do alpha[opacidade]
 
 
 
