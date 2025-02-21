@@ -1,0 +1,56 @@
+/*
+==================
+Estilização Global
+==================
+*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif; /* Altera o tipo de fonte presente no documento  */
+    background-color: #f7f7f7;
+}
+
+p{
+    font-size: 20px;  /* Alterando o tamanho dos parágrafos de 16px(padrao) para 20px  */
+
+}
+
+a{
+text-decoration: none; /* Tira qualquer decoração que tenha na tag a */
+
+}
+
+img{
+    max-width: 100%; /* Evita o overflow, a img ocupa 100% do elemento pai */
+
+}
+li{
+    list-style: none;
+
+}
+
+/*
+=====================
+Estilização do header 
+=====================
+*/
+
+.menu{
+    
+    display: flex; /* Alinha os itens em linha horizontal    */
+    gap: 25px;   /* Cria um distanciamento entro os itens   */
+}
+
+.menu a {
+    background-color: #f7f7f7;
+    border-radius: 4px;   /* Arredonda as laterais da borda*/
+    padding: 12px 30px; /* o primeiro valor é para cima e baixo e o segundo é para direita e para esquerda*/
+    color: black;
+    text-transform: uppercase; /* Deixa o texto com letras maiúsculas. */
+}
+
+.menu a:hover{
+    background-color:#ee2211;
+    color: #FFFFFF;
+
+
+}

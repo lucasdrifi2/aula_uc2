@@ -27,6 +27,8 @@
 - ``font-size`` : tamanho da fonte  ---> Mudar o tamanho da fonte
 
 
+
+
 # Aula 3
 
 ## SELETORES NO CSS
@@ -45,5 +47,29 @@
 4. ``rgba`` ---> São os mesmos valores do rgb, porém, com o valor do alpha[opacidade]
 
 
+# Aula 4
+## HTML
+
+1. <img> ---> Tag responsável por inserir uma imagem interna ou externa.
+- src ---> Fonte da imagem que voce quer exibir
+- alt ---> é o texto alternativo caso a fonte da imagem está quebrada e por questões de acessibilidade.
+ex: <img src="caminho_da_imagem" alt="descrição da imagem">
+
+2. Listas
+<ul></ul> ---> Informa que existirá itens e a posição desses itens não importa. Lista não ordenada. 
+<ol></ol> ---> Informa que existirá itens e a posição desses itens IMPORTA. Lista ordenada.
+<li></li> ---> É cada item da lista, independente da lista
+
+3. Tag de link
+`<a></a>` ---> é utilizada para gerar um texto clicavel. Link 
+- href ---> é uma propriedade onde você irá informal qual o caminho que o link irá enviar o usuário.
+ex: <a href="caminho_do_link">Lugar clicavel</a>
 
 
+## CSS
+
+1. ``font-family: Arial, Helvetica, sans-serif;`` ---> Propriedade que altera a tipografica,(Tipo de fonte) utilizado no elemento.
+
+2. ``padding`` ---> é o espaçamento interno de um conteúdo até a borda.
+3. ``margin`` ---> é o espaçamento externo do elemento em relação a outro elemento.
+4. ``border`` ---> é a borda do elemento.
